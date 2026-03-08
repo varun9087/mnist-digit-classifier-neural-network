@@ -73,7 +73,7 @@ digit-classifier-neural-network
 ⚙️ Installation
 Clone the repository
 
-git clone https://github.com/YOUR_USERNAME/mnist-digit-classifier-neural-network.git
+git clone https://github.com/varun9087/mnist-digit-classifier-neural-network.git
 
 Navigate to the project directory
 
