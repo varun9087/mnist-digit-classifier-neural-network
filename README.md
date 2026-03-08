@@ -1,3 +1,4 @@
+#Updated readme 
 Handwritten Digit Classifier using Neural Networks
 A machine learning project that builds a neural network to classify handwritten digits (0–9) using the MNIST dataset.
 The model is implemented using TensorFlow/Keras and demonstrates multiclass classification with a Softmax output layer.
